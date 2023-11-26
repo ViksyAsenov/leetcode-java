@@ -2,7 +2,7 @@ package arraysAndHashing;
 
 import java.util.*;
 
-public class groupAnagrams {
+public class groupAnagrams49 {
     private static int getLetterHash(String str) {
         char[] charArray = str.toCharArray();
 

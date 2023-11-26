@@ -3,7 +3,7 @@ package stack;
 import java.util.Objects;
 import java.util.Stack;
 
-public class minStack {
+public class minStack155 {
     static class MinStack {
         private final Stack<Integer> stack = new Stack<>();
         private final Stack<Integer> minStack = new Stack<>();
